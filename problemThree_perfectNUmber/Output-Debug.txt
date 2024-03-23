@@ -1,0 +1,15 @@
+﻿'perfectNUmber.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\perfectNUmber\x64\Debug\perfectNUmber.exe'. Symbols loaded.
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x4fd4 has exited with code 0 (0x0).
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'perfectNUmber.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x4148 has exited with code 0 (0x0).
+The thread 0x26c8 has exited with code 0 (0x0).
+The program '[18204] perfectNUmber.exe' has exited with code 0 (0x0).

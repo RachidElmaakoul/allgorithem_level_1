@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\allgorithem level 2\perfectNUmber\x64\Debug\perfectNUmber.exe
+C:\Users\hp\source\repos\allgorithem level 2\problemThree_perfectNUmber\x64\Debug\perfectNUmber.exe
