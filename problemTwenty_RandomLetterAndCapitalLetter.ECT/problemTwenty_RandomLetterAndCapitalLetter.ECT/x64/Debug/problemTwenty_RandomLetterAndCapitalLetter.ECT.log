@@ -1,0 +1,3 @@
+﻿  problemTwenty_RandomLetterAndCapitalLetter.ECT.cpp
+C:\Users\hp\source\repos\allgorithem level 2\problemTwenty_RandomLetterAndCapitalLetter.ECT\problemTwenty_RandomLetterAndCapitalLetter.ECT\problemTwenty_RandomLetterAndCapitalLetter.ECT.cpp(26): warning C4715: 'getRandomCharater': not all control paths return a value
+  problemTwenty_RandomLetterAndCapitalLetter.ECT.vcxproj -> C:\Users\hp\source\repos\allgorithem level 2\problemTwenty_RandomLetterAndCapitalLetter.ECT\x64\Debug\problemTwenty_RandomLetterAndCapitalLetter.ECT.exe
