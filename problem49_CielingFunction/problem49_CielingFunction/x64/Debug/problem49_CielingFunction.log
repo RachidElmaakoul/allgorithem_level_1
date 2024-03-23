@@ -1,0 +1,5 @@
+﻿  problem49_CielingFunction.cpp
+C:\Users\hp\source\repos\allgorithem level 2\problem49_CielingFunction\problem49_CielingFunction\problem49_CielingFunction.cpp(35,28): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\allgorithem level 2\problem49_CielingFunction\problem49_CielingFunction\problem49_CielingFunction.cpp(37,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\allgorithem level 2\problem49_CielingFunction\problem49_CielingFunction\problem49_CielingFunction.cpp(40,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  problem49_CielingFunction.vcxproj -> C:\Users\hp\source\repos\allgorithem level 2\problem49_CielingFunction\x64\Debug\problem49_CielingFunction.exe

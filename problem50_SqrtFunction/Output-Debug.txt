@@ -1,0 +1,15 @@
+﻿'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problem50_SqrtFunction\x64\Debug\problem50_SqrtFunction.exe'. Symbols loaded.
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x1a40 has exited with code 0 (0x0).
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem50_SqrtFunction.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x2370 has exited with code 0 (0x0).
+The thread 0x175c has exited with code 0 (0x0).
+The program '[15624] problem50_SqrtFunction.exe' has exited with code 0 (0x0).

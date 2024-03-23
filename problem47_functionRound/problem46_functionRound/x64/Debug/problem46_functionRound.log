@@ -1,0 +1,5 @@
+﻿  problem46_functionRound.cpp
+C:\Users\hp\source\repos\allgorithem level 2\problem47_functionRound\problem46_functionRound\problem46_functionRound.cpp(24,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\allgorithem level 2\problem47_functionRound\problem46_functionRound\problem46_functionRound.cpp(27,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\allgorithem level 2\problem47_functionRound\problem46_functionRound\problem46_functionRound.cpp(33,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  problem46_functionRound.vcxproj -> C:\Users\hp\source\repos\allgorithem level 2\problem47_functionRound\x64\Debug\problem46_functionRound.exe

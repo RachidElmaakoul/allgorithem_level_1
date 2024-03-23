@@ -1,0 +1,5 @@
+﻿  problem50_SqrtFunction.cpp
+C:\Users\hp\source\repos\allgorithem level 2\problem50_SqrtFunction\problem50_SqrtFunction\problem50_SqrtFunction.cpp(12,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\source\repos\allgorithem level 2\problem50_SqrtFunction\problem50_SqrtFunction\problem50_SqrtFunction.cpp(18,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\allgorithem level 2\problem50_SqrtFunction\problem50_SqrtFunction\problem50_SqrtFunction.cpp(19,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  problem50_SqrtFunction.vcxproj -> C:\Users\hp\source\repos\allgorithem level 2\problem50_SqrtFunction\x64\Debug\problem50_SqrtFunction.exe
