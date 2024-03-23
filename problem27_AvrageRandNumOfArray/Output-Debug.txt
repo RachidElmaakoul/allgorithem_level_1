@@ -1,0 +1,15 @@
+﻿'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problem27_AvrageRandNumOfArray\x64\Debug\problem27_AvrageRandNumOfArray.exe'. Symbols loaded.
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x5130 has exited with code 0 (0x0).
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem27_AvrageRandNumOfArray.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x287c has exited with code 0 (0x0).
+The thread 0x46ac has exited with code 0 (0x0).
+The program '[7640] problem27_AvrageRandNumOfArray.exe' has exited with code 0 (0x0).
