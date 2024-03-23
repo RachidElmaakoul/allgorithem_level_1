@@ -1,0 +1,15 @@
+﻿'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problem42_countOddNumbersInArray\x64\Debug\problem42_countOddNumbersInArray.exe'. Symbols loaded.
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x5984 has exited with code 0 (0x0).
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem42_countOddNumbersInArray.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x5ca0 has exited with code 0 (0x0).
+The thread 0x15a8 has exited with code 0 (0x0).
+The program '[17624] problem42_countOddNumbersInArray.exe' has exited with code 0 (0x0).
