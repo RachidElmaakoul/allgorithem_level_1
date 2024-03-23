@@ -1,0 +1,15 @@
+﻿'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problem23_FillArrayOfRandomNumber\x64\Debug\problem23_FillArrayOfRandomNumber.exe'. Symbols loaded.
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x2910 has exited with code 0 (0x0).
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem23_FillArrayOfRandomNumber.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x47e4 has exited with code 0 (0x0).
+The thread 0x76c has exited with code 0 (0x0).
+The program '[2764] problem23_FillArrayOfRandomNumber.exe' has exited with code 0 (0x0).

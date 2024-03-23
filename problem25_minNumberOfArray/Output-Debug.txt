@@ -1,0 +1,15 @@
+﻿'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problem25_minNumberOfArray\x64\Debug\problem25_minNumberOfArray.exe'. Symbols loaded.
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x2fd0 has exited with code 0 (0x0).
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem25_minNumberOfArray.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x35bc has exited with code 0 (0x0).
+The thread 0x18b0 has exited with code 0 (0x0).
+The program '[10012] problem25_minNumberOfArray.exe' has exited with code 0 (0x0).
