@@ -1,0 +1,3 @@
+﻿  AllPrimeNumber.cpp
+C:\Users\hp\source\repos\AllPrimeNumber\AllPrimeNumber\AllPrimeNumber.cpp(19,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AllPrimeNumber.vcxproj -> C:\Users\hp\source\repos\AllPrimeNumber\x64\Debug\AllPrimeNumber.exe
