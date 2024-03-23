@@ -1,0 +1,15 @@
+﻿'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problem36_AddArrayElementSimiDynamic\x64\Debug\problem36_AddArrayElementSimiDynamic.exe'. Symbols loaded.
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x2c40 has exited with code 0 (0x0).
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem36_AddArrayElementSimiDynamic.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x1af0 has exited with code 0 (0x0).
+The thread 0x7828 has exited with code 0 (0x0).
+The program '[27324] problem36_AddArrayElementSimiDynamic.exe' has exited with code 0 (0x0).

@@ -1,0 +1,13 @@
+﻿'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problem35_checkNumberFoundOrNot\x64\Debug\problem35_checkNumberFoundOrNot.exe'. Symbols loaded.
+'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem35_checkNumberFoundOrNot.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x2e7c has exited with code 0 (0x0).
+The thread 0x62a8 has exited with code 3221225786 (0xc000013a).
+The thread 0x244c has exited with code 3221225786 (0xc000013a).
+The thread 0x517c has exited with code 3221225547 (0xc000004b).
+The program '[17040] problem35_checkNumberFoundOrNot.exe' has exited with code 3221225786 (0xc000013a).
