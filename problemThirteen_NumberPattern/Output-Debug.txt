@@ -1,0 +1,15 @@
+﻿'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problemThirteen_NumberPattern\x64\Debug\problemThirteen_NumberPattern.exe'. Symbols loaded.
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x1e34 has exited with code 0 (0x0).
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problemThirteen_NumberPattern.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x111c has exited with code 0 (0x0).
+The thread 0x4d40 has exited with code 0 (0x0).
+The program '[3020] problemThirteen_NumberPattern.exe' has exited with code 0 (0x0).

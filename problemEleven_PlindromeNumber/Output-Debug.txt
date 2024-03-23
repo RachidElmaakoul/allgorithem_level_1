@@ -1,0 +1,15 @@
+﻿'problemEleven.exe' (Win32): Loaded 'C:\Users\hp\source\repos\allgorithem level 2\problemEleven\x64\Debug\problemEleven.exe'. Symbols loaded.
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x3cf4 has exited with code 0 (0x0).
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problemEleven.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x4448 has exited with code 0 (0x0).
+The thread 0x45e8 has exited with code 0 (0x0).
+The program '[2912] problemEleven.exe' has exited with code 0 (0x0).
