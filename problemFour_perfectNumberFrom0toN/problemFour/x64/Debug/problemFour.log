@@ -1,0 +1,3 @@
+﻿  problemFour.cpp
+C:\Users\hp\source\repos\problemFour\problemFour\problemFour.cpp(28,6): warning C4101: 'perfect': unreferenced local variable
+  problemFour.vcxproj -> C:\Users\hp\source\repos\problemFour\x64\Debug\problemFour.exe
